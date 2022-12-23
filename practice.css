@@ -130,7 +130,7 @@ nav .middle2 {
     transition: all .3s ease-in-out;
 }
 
-.right a:hover {
+.right i:hover {
     font-size: 45px;
     color: blue;
 }
