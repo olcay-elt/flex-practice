@@ -118,6 +118,10 @@ nav .middle2 {
     border: 1px solid rgb(57, 54, 54);
 }
 
+.right:hover {
+    font-size: 45px;
+}
+
 .right a {
     font-size: 35px;
     color: black;
